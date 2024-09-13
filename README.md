@@ -1,5 +1,5 @@
 # Login Data Set for Risk-Based Authentication
-Collaborated with @TEJAS07080
+Collaborated with @VedantShah45
 
 > Synthesized login feature data of >33M login attempts and >3.3M users
 > on a large-scale online service in Norway. Original data collected
